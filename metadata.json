@@ -1,0 +1,6 @@
+{
+  "name": "Clay Piano",
+  "description": "A claymorphic MIDI piano recorder, player, and visualizer representing rubato, voicing, touch, and metronomic precision.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
